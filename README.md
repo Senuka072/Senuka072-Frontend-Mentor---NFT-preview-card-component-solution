@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Senuka072/Frontend-Mentor---NFT-preview-card-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Senuka072/Frontend-Mentor---NFT-preview-card-component.git
+- Live Site URL: https://nft-preview-card-component-senuka.netlify.app/
 
 ## Author
 
